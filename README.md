@@ -17,7 +17,7 @@
       NodeJS
       Database MongoDB Cluster
 ## Create .env File
-    Inside .env use the MongoDB url to store the data (Sample Below)
+### Inside .env use the MongoDB url to store the data (Sample Below)
     MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
     JWT_SECRET=MySecretBlog
 ## Installation 
