@@ -4,7 +4,7 @@
      It has Admin panel where the Creator can Register using Username and Password.
      To access Admin Panel they can Sign In using their Credentials.
      Once Signed In they can Create New Blog post, Edit already created post and delete it.
-### For Users:
+### For Readers:
      They can View the Blogs posted by the Admin.
      Has a search bar where they can search blogs using keywords.
 ## Images of Dev-Diary WebApp
